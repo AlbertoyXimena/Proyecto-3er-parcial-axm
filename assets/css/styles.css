@@ -1,0 +1,36 @@
+.navbar {
+  background-color: var(--bs-cyan);
+}
+
+.BRUNO:hover {
+  background-color: #0ce17f;
+}
+
+.ariel:hover {
+  background-color: #ff0018;
+}
+
+a:hover {
+  background-color: var(--bs-light);
+}
+
+.btn:hover {
+  background-color: #ff8a00;
+}
+
+.navbar:hover {
+  background-color: #7f64ed;
+}
+
+.fondo:hover {
+  background-color: #7f64ed;
+}
+
+.fondo:hover {
+  background-color: #7f64ed;
+}
+
+.fondo:hover {
+  background-color: #7f64ed;
+}
+
